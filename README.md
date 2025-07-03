@@ -1,9 +1,9 @@
-##### Hi I'm Rizal👋
+# Hi I'm Rizal👋
 
 WHey there! Welcome to my profile.
 I'm a 19-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban.ac.id/) in Indonesia, and I'm passionate about programming and web development. Thanks for stopping by – let's [connect](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE)!
 
-##### Skill
+## Skill
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@ I'm a 19-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-##### Design Skill
+## Design Skill
 
 <p>
     <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
