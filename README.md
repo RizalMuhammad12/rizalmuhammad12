@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Rizal👋
+
+WHey there! Welcome to my profile. I'm a 19-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban.ac.id/) in Indonesia, and I'm passionate about programming and web development. Thanks for stopping by – let's [connect](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE)!
 
 <!--
 **RizalMuhammad12/rizalmuhammad12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
