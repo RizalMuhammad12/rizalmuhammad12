@@ -31,6 +31,8 @@ I'm a 19-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban
     <img src="https://img.shields.io/badge/Adobe_Lightroom-363636?style=for-the-badge&logo=adobe-lightroom&logoColor=white" />
 </p>
 
+## Play Game
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/pacman-contribution-graph.svg">
