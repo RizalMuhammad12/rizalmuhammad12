@@ -30,3 +30,9 @@ I'm a 19-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe_Lightroom-363636?style=for-the-badge&logo=adobe-lightroom&logoColor=white" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/pacman-contribution-graph.svg">
+</picture>
