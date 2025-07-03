@@ -33,6 +33,11 @@ I'm a 19-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban
 
 ## Play Game
 
+<p>
+    <img src="https://img.shields.io/badge/Playing%20Chess-36393F?style=for-the-badge&logo=chess.com&logoColor=white" />
+    <img src="https://img.shields.io/badge/rating-831-blue?style=for-the-badge&logo=chess.com&logoColor=white" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/pacman-contribution-graph.svg">
