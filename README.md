@@ -1,7 +1,7 @@
 # Hi I'm Rizal👋
 
 Welcome to my profile
-I'm a 19-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban.ac.id/) in Indonesia, and I'm passionate about programming and web development. Thanks for visiting – let's [connect](https://www.linkedin.com/in/Rizalmuhammad12)!
+I'm a 20-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban.ac.id/) in Indonesia, and I'm passionate about programming and web development. Thanks for visiting – let's [connect](https://www.linkedin.com/in/Rizalmuhammad12)!
 
 ## Skill
 
