@@ -30,7 +30,6 @@ I'm a 20-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban
     <img src="https://img.shields.io/badge/Adobe_Lightroom-363636?style=for-the-badge&logo=adobe-lightroom&logoColor=white" />
 </p>
 
-## Play Game
 
 <p>
     <img src="https://img.shields.io/badge/Playing%20Chess-36393F?style=for-the-badge&logo=chess.com&logoColor=white" />
