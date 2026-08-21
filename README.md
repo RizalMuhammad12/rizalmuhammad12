@@ -29,9 +29,6 @@ I'm a 20-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban
     <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+## 📊 GitHub Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/pacman-contribution-graph.svg">
-</picture>
+![](./profile-3d-contrib/profile-green-animate.svg)
