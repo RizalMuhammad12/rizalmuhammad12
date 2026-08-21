@@ -29,6 +29,4 @@ I'm a 20-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban
     <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-## 📊 GitHub Contributions
 
-![](./profile-3d-contrib/profile-green-animate.svg)
