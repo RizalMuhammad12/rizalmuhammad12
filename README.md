@@ -30,3 +30,10 @@ I'm a 20-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+<h2>🐍 Contribution</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/github-snake.svg">
+</picture>
