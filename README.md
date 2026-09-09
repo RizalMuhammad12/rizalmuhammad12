@@ -38,9 +38,4 @@ I'm a 20-year-old student at [Politeknik Negeri Banjarmasin](https://www.poliban
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rizalmuhammad12/Rizalmuhammad12/output/github-snake.svg">
 </picture>
 
-<p align="right">
-  <strong>Catch you! Hi!</strong>
-  <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Rizalmuhammad12&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge" />
-</div>
-</p>
+![Profile view counter on Github](https://komarev.com?ghpvc/?username=Rizalmuhammad12)
